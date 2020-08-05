@@ -23,6 +23,7 @@
 //*   Rev 1.1 7-6-2020 Revise code to add new features
 //*   Rev 2.0 7-22-2020 Revise code to fix issues.
 //*   Rev 2.1 7/31/2020 Revise code to add 600 ON-OFF intervals 
+//*   Rev 2.2 7/31/2020 Revise code to add Frequency 
 //************************************************************** 
 
 #include <Adafruit_ssd1306syp.h>
